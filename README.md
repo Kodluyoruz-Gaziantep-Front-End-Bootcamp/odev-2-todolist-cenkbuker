@@ -1,15 +1,14 @@
-# Week - NULL
-```Hafta veya Ödev Sayısı (NULL değiştir)```
+# Week - 2
+2
 
 # Homework 
-```Ödev```
+Todo List
 
 
 ## Homework Description
 
-```Ödev Açıklaması ```
-
+Basic todo list with deleting feature using react. 
 
 ## Author
 
-```Ödevi yapan```
+Cenk Büker
